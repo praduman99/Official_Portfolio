@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/pradumansharma/static/css/main.4e9654ea.css",
-    "main.js": "/pradumansharma/static/js/main.b885e18e.js",
+    "main.css": "/pradumansharma/static/css/main.fcaf7e8b.css",
+    "main.js": "/pradumansharma/static/js/main.deb969dd.js",
     "static/js/787.aeaf144b.chunk.js": "/pradumansharma/static/js/787.aeaf144b.chunk.js",
     "static/media/Aboutme.jpg": "/pradumansharma/static/media/Aboutme.58ecfb9e311e207697f1.jpg",
     "static/media/profileimg.jpg": "/pradumansharma/static/media/profileimg.e7191074d3f864e382a9.jpg",
     "static/media/bootstrap-icons.woff?": "/pradumansharma/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
     "static/media/bootstrap-icons.woff2?": "/pradumansharma/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
     "index.html": "/pradumansharma/index.html",
-    "main.4e9654ea.css.map": "/pradumansharma/static/css/main.4e9654ea.css.map",
-    "main.b885e18e.js.map": "/pradumansharma/static/js/main.b885e18e.js.map",
+    "main.fcaf7e8b.css.map": "/pradumansharma/static/css/main.fcaf7e8b.css.map",
+    "main.deb969dd.js.map": "/pradumansharma/static/js/main.deb969dd.js.map",
     "787.aeaf144b.chunk.js.map": "/pradumansharma/static/js/787.aeaf144b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e9654ea.css",
-    "static/js/main.b885e18e.js"
+    "static/css/main.fcaf7e8b.css",
+    "static/js/main.deb969dd.js"
   ]
 }
