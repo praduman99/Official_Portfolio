@@ -8,17 +8,20 @@ const About = () => {
                 <div className='row flex-row justify-content-center p-5 '>
 
                     <div className='col-md-4 '>
-                        <img src={Image} class="img-fluid"  />
+                        <img src={Image} class="img-fluid" />
                     </div>
-                    <div className='col-md-5 border'>
+                    <div className='col-md-5'>
                         <div className='container'>
-                            <div className='row'>
-                                <h4>About Me</h4>
-                            </div>
                             <div className='row'>
                                 <h3>
                                     A dedicated Front-end Developer
-                                    based in Belgrade, Serbia </h3>
+                                    based in India. </h3>
+                            </div>
+                            <div className='row'>
+                                <p className='text-secondary'>
+                                Experienced senior frontend developer with<b> 4 years </b> of expertise in <b>React Native and React JS </b>. Proven track record of crafting high-quality, responsive web and mobile applications. Adept at collaborating with cross-functional teams to deliver robust, user-friendly solutions. Passionate about staying updated with emerging technologies and optimizing user experiences.
+                                </p>
+
                             </div>
                         </div>
 

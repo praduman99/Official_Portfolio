@@ -4,7 +4,7 @@ import './Intro.css'
 
 const Intro = () => {
     return (
-        <div className='' style={{ minHeight: "100vh" ,background:"#f1f1f1"}}>
+        <div className='' style={{ minHeight: "100vh" ,background:"#f9f9f9"}}>
             <Navbar />
             <div className='container-fluid p-5 mt-5'>
                 <div className="row flex-row justify-content-center">
