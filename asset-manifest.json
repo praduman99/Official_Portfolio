@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/praduman99/Official_Portfolio.git/static/css/main.08d5c852.css",
+    "main.js": "/praduman99/Official_Portfolio.git/static/js/main.e088b783.js",
+    "static/js/787.aeaf144b.chunk.js": "/praduman99/Official_Portfolio.git/static/js/787.aeaf144b.chunk.js",
+    "static/media/Aboutme.jpg": "/praduman99/Official_Portfolio.git/static/media/Aboutme.c1b9e2c6b1c0b09aac2b.jpg",
+    "static/media/profileimg.jpg": "/praduman99/Official_Portfolio.git/static/media/profileimg.e7191074d3f864e382a9.jpg",
+    "static/media/bootstrap-icons.woff?": "/praduman99/Official_Portfolio.git/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
+    "static/media/bootstrap-icons.woff2?": "/praduman99/Official_Portfolio.git/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "index.html": "/praduman99/Official_Portfolio.git/index.html",
+    "main.08d5c852.css.map": "/praduman99/Official_Portfolio.git/static/css/main.08d5c852.css.map",
+    "main.e088b783.js.map": "/praduman99/Official_Portfolio.git/static/js/main.e088b783.js.map",
+    "787.aeaf144b.chunk.js.map": "/praduman99/Official_Portfolio.git/static/js/787.aeaf144b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08d5c852.css",
+    "static/js/main.e088b783.js"
+  ]
+}
