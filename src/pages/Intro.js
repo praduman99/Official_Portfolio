@@ -11,14 +11,17 @@ const Intro = () => {
                     <div className="col-md-3 profile-pic">
                     </div>
                     <div className="col-md-7 p-5 ">
-                        <h1 className='text-lg'>Fullstack Developer</h1>
-                        <p className='text-secondary mt-4 text-center'> I am Praduman Sharma, a <b>Full Stack Developer </b> based in India 🇮🇳, with over <b> 4 years </b>of expertise in turning ideas into reality through code. </p>
+                        <h1 className='text-lg'>Front-end Developer</h1>
+                        <p className='text-secondary mt-4 text-center'> I am Praduman Sharma, a <b>Front-end Developer </b> based in India 🇮🇳, with over <b> 4 years </b>of expertise in turning ideas into reality through code. </p>
 
                         <div className='d-flex flex-row justify-content-center ' >
                          <i className="bi bi-github text-secondary m-3"></i>
                            <i className="bi bi-linkedin text-secondary m-3"></i>
                              <i className="bi bi-envelope-at-fill text-secondary m-3"></i>
                         </div>
+                        <div className='d-flex flex-row justify-content-center ' >
+                            <button className='btn btn-secondary'><i class="bi bi-download" style={{fontSize:"50px"}}></i> &nbsp;My  Resume</button>
+                            </div>
                     </div>
 
                 </div>
