@@ -1,0 +1,26 @@
+body {
+    font-family: "popins", sans-serif !important;
+}
+
+
+::-webkit-scrollbar {
+    width: 8px !important;
+    height: 8px !important;
+}
+
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: none !important;
+    -webkit-border-radius: 10px !important;
+    border-radius: 10px !important;
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 8px !important;
+    border-radius: 8px !important;
+    background: #a8b1be;
+    -webkit-box-shadow: none !important;
+}
+
+/* ::-webkit-scrollbar-thumb:window-inactive {
+    background: #a8b1be !important;
+} */
