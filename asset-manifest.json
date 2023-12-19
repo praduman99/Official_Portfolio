@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/pradumansharma/static/css/main.1f050b47.css",
-    "main.js": "/pradumansharma/static/js/main.69c0ad84.js",
+    "main.css": "/pradumansharma/static/css/main.3ef45bcf.css",
+    "main.js": "/pradumansharma/static/js/main.ceb8ceae.js",
     "static/js/787.aeaf144b.chunk.js": "/pradumansharma/static/js/787.aeaf144b.chunk.js",
     "static/media/Aboutme.jpg": "/pradumansharma/static/media/Aboutme.58ecfb9e311e207697f1.jpg",
     "static/media/profileimg.jpg": "/pradumansharma/static/media/profileimg.e7191074d3f864e382a9.jpg",
     "static/media/bootstrap-icons.woff?": "/pradumansharma/static/media/bootstrap-icons.66b7720f4a230f1b0341.woff",
     "static/media/bootstrap-icons.woff2?": "/pradumansharma/static/media/bootstrap-icons.64ed46b247405068ca60.woff2",
+    "static/media/androidstudio.png": "/pradumansharma/static/media/androidstudio.c3baf8e1204003717c83.png",
     "static/media/css.png": "/pradumansharma/static/media/css.9f33c557b92e4e2e1cc8.png",
     "static/media/redux.png": "/pradumansharma/static/media/redux.b426d97de12d4dab1c06.png",
     "static/media/reactnative.png": "/pradumansharma/static/media/reactnative.20adfb35ae6a6e5817bf.png",
+    "static/media/github.png": "/pradumansharma/static/media/github.5994b25b696bbc93b5d8.png",
     "static/media/html.png": "/pradumansharma/static/media/html.c77fed674c34630bf6ef.png",
     "static/media/ts.png": "/pradumansharma/static/media/ts.bb13ebd9561a6ee645c2.png",
     "static/media/js.png": "/pradumansharma/static/media/js.dafbcd7fb56fcfce553c.png",
+    "static/media/gitlab.png": "/pradumansharma/static/media/gitlab.154caaf6a91a6c6178b1.png",
     "index.html": "/pradumansharma/index.html",
-    "main.1f050b47.css.map": "/pradumansharma/static/css/main.1f050b47.css.map",
-    "main.69c0ad84.js.map": "/pradumansharma/static/js/main.69c0ad84.js.map",
+    "main.3ef45bcf.css.map": "/pradumansharma/static/css/main.3ef45bcf.css.map",
+    "main.ceb8ceae.js.map": "/pradumansharma/static/js/main.ceb8ceae.js.map",
     "787.aeaf144b.chunk.js.map": "/pradumansharma/static/js/787.aeaf144b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f050b47.css",
-    "static/js/main.69c0ad84.js"
+    "static/css/main.3ef45bcf.css",
+    "static/js/main.ceb8ceae.js"
   ]
 }
