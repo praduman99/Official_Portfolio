@@ -24,3 +24,7 @@ body {
 /* ::-webkit-scrollbar-thumb:window-inactive {
     background: #a8b1be !important;
 } */
+
+html {
+    scroll-behavior: smooth;
+  }

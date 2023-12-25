@@ -3,8 +3,8 @@ import Navbar from '../components/Navbar'
 import Image from '../assets/images/Aboutme.jpg'
 const About = () => {
     return (
-        <div>
-            <div className='container-fluid'>
+            <div id="about" className='container-fluid' style={{ minHeight: "100vh",marginTop:"5rem"}}>
+            <h1 className='row justify-content-center text-decoration-underline'>About</h1>
                 <div className='row flex-row justify-content-center p-5 '>
 
                     <div className='col-md-4 '>
@@ -13,7 +13,7 @@ const About = () => {
                     <div className='col-md-5'>
                         <div className='container'>
                             <div className='row'>
-                                <h3>
+                                <h3 style={{fontWeight:'bold'}}>
                                     A dedicated Front-end Developer
                                     based in India. </h3>
                             </div>
@@ -28,7 +28,6 @@ const About = () => {
                     </div>
                 </div>
             </div>
-        </div>
     )
 }
 
