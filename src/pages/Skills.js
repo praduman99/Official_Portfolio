@@ -26,7 +26,7 @@ const Skills = () => {
               <SkillsImage image={js} title={"JavaScript"} />
               <SkillsImage image={ts} title={"TypeScript"} />
             </div>
-            <h4 style={{fontWeight:'bold'}}className='mt-4'> IDE / Version Controler</h4>
+            <h4 style={{fontWeight:'bold'}}className='mt-4'> IDE & Version Controler</h4>
             <div className='card d-flex flex-column '>
               <SkillsImage image={vs} title={"Visual Studio Code"} />
               <SkillsImage image={androidstudio} title={"Android Studio"} />
