@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6ee178dee075b8083fa12fda13d1ef6",
+    "revision": "7fd40d52bfcb099b75e8d21cc355111b",
     "url": "/pradumansharma/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pradumansharma/static/css/2.4ecf72c7.chunk.css"
   },
   {
-    "revision": "fda6a70ef45c47d28fd9",
+    "revision": "184df8d11aa57d06a8e0",
     "url": "/pradumansharma/static/css/main.1e5c9e48.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pradumansharma/static/js/3.bb0829b5.chunk.js"
   },
   {
-    "revision": "fda6a70ef45c47d28fd9",
-    "url": "/pradumansharma/static/js/main.f3847591.chunk.js"
+    "revision": "184df8d11aa57d06a8e0",
+    "url": "/pradumansharma/static/js/main.2537b254.chunk.js"
   },
   {
     "revision": "379a1840dbb671ee9361",
