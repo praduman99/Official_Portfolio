@@ -34,9 +34,6 @@ const Skills = () => {
               <SkillsImage image={gitlab} title={"GitLab"} />
             </div>
           </div>
-
-
-
           <div className="col-md-2 ">
           <h4 style={{fontWeight:'bold'}}> Frontend</h4>
             <div className='card d-flex flex-column'>
