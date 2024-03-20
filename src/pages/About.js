@@ -7,7 +7,7 @@ const About = () => {
                 <div className='row flex-row justify-content-center p-5 '>
 
                     <div className='col-md-4 '>
-                        <img src={Image} class="img-fluid" />
+                        <img src={Image} class="img-fluid" alt='image' />
                     </div>
                     <div className='col-md-5'>
                         <div className='container'>
