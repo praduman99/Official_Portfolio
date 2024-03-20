@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c23f4b016044a4a911e4bd0f45fb607c",
+    "revision": "e45d04256253b1d79fe06c4639afefad",
     "url": "/pradumansharma/index.html"
   },
   {
-    "revision": "984050d81370620c467c",
+    "revision": "0c05aa830af9662c9139",
     "url": "/pradumansharma/static/css/2.4ecf72c7.chunk.css"
   },
   {
-    "revision": "04b03cc04b033740bb61",
+    "revision": "bbfb90d02216bfe77f30",
     "url": "/pradumansharma/static/css/main.58011fb4.chunk.css"
   },
   {
-    "revision": "984050d81370620c467c",
-    "url": "/pradumansharma/static/js/2.1feac8b4.chunk.js"
+    "revision": "0c05aa830af9662c9139",
+    "url": "/pradumansharma/static/js/2.c4b48e32.chunk.js"
   },
   {
     "revision": "b14cf38e36b679bf3c7c",
     "url": "/pradumansharma/static/js/3.bb0829b5.chunk.js"
   },
   {
-    "revision": "04b03cc04b033740bb61",
-    "url": "/pradumansharma/static/js/main.2537b254.chunk.js"
+    "revision": "bbfb90d02216bfe77f30",
+    "url": "/pradumansharma/static/js/main.e6b52013.chunk.js"
   },
   {
     "revision": "379a1840dbb671ee9361",
