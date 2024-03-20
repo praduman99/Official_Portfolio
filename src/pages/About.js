@@ -1,5 +1,4 @@
 import React from 'react'
-import Navbar from '../components/Navbar'
 import Image from '../assets/images/Aboutme.jpg'
 const About = () => {
     return (

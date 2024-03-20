@@ -1,5 +1,4 @@
 import React from 'react'
-import AnimatedCursor from "react-animated-cursor"
 import About from './pages/About'
 import Intro from './pages/Intro'
 import Skills from './pages/Skills'

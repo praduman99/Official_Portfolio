@@ -1,5 +1,4 @@
 import React from 'react'
-import Navbar from '../components/Navbar'
 import js from '../assets/images/js.png'
 import ts from '../assets/images/ts.png'
 import html from '../assets/images/html.png'
