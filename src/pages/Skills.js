@@ -47,7 +47,6 @@ const Skills = () => {
               <SkillsImage image={redux} title={"Websockets"} />
               <SkillsImage image={redux} title={"OAuth"} />
               <SkillsImage image={redux} title={"JWT"} />
-              <SkillsImage image={redux} title={"Push Notification"} />
             </div>
           </div>
           <div className="col-md-2">
