@@ -8,6 +8,7 @@ import Blogs from './pages/Blogs'
 import Navbar from './components/Navbar'
 import Certificates from './pages/Certificates'
 import Education from './components/Education'
+import Contact from './pages/Contact'
 
 const App = () => {
   return (
@@ -21,6 +22,7 @@ const App = () => {
     <Certificates/>
     <Education/>
     <Blogs/>
+    <Contact/>
     <Footer/>
   </React.Fragment>
   )

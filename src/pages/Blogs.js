@@ -29,10 +29,9 @@ const Blogs = () => {
         },
     ]
     return (
-                <div id="blog" className='container-fluid' style={{ minHeight: "100vh", marginTop: "5rem" }}>
-                    <h1 className='row justify-content-center text-decoration-underline'>Blogs</h1>
+        <div id="blog" className='container-fluid' style={{ minHeight: '100vh' }}>
+        <h1 className='row justify-content-center p-5 text-decoration-underline'>Blogs</h1>
                     <div className='row'>
-
                         {data.map(item => {
                             return (
                                 <div className="col-md-4 p-5">
