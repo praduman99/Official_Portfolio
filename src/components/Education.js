@@ -2,7 +2,7 @@ import React from 'react'
 import university from '../assets/university/University.jpeg'
 const Education = () => {
   return (
-    <div id="education" className='container-fluid' style={{ minHeight: "100vh", marginTop: "5rem" }}>
+    <div id="education" className='container-fluid' style={{ minHeight: "100vh" ,background:"#f9f9f9"}}>
     <h1 className='row justify-content-center p-5 text-decoration-underline'>Education</h1>
   
     <div className="row">

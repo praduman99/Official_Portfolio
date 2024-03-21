@@ -28,9 +28,9 @@ const Contact = () => {
   };
 
   return (
-    <div id="contact" className='container-fluid' style={{ minHeight: '100vh' }}>
+    <div id="contact" className='container-fluid' style={{ minHeight: '100vh',background:"#f9f9f9" }}>
       <h1 className='row justify-content-center p-5 text-decoration-underline'>Contact me</h1>
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} className="m-5">
         <div className="form-group">
           <label htmlFor="name">Name</label>
           <input

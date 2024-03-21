@@ -35,7 +35,7 @@ const Blogs = () => {
                         {data.map(item => {
                             return (
                                 <div className="col-md-4 p-5">
-                                    <div className="card" style={{ Width: "18rem" }}>
+                                    <div className="card shadow" style={{ Width: "18rem" }}>
                                         <img src={item.imgUrl} className="card-img-top" alt="..." />
                                         <div className="card-body">
                                             <h5 className="card-title" style={{ height: "60px" }} >{item.title}</h5>
