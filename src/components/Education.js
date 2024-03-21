@@ -18,7 +18,7 @@ const Education = () => {
           <div className="card-body">
             <h5 className="card-title">Bachelor of Engineering in Computer Science </h5>
             <p className="card-text text-secondary">Chitkara University, Chandigarh</p>
-            <p className="card-text text-success">Duration: Aug2017 - May2021</p>
+            <p className="card-text text-success">Aug2017 - Aug2021</p>
           </div>
         </div>
       </div>
