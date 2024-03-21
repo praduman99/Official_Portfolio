@@ -21,6 +21,21 @@
     .h1 {
         font-size: 26px !important; /* Adjust font size for smaller screens */
     }
+    .profile-pic {
+        -webkit-animation: morph 8s ease-in-out infinite;
+        animation: morph 8s ease-in-out infinite;
+        background-image: url("../assets/images/profileimg.jpg");
+        background-position: 50%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border: 3px solid #2d2e32;
+        border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
+        height: 35vh;
+        position: relative;
+        transition: all 1s ease-in-out;
+        /* width: 20vh; */
+        /* background-position: center; */
+    }
 }
 .bi{
     font-size: 25px !important;
