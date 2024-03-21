@@ -19,7 +19,7 @@
 }
 @media (max-width: 700px) {
     .h1 {
-        font-size: 45px !important; /* Adjust font size for smaller screens */
+        font-size: 26px !important; /* Adjust font size for smaller screens */
     }
 }
 .bi{
