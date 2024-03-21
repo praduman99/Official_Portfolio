@@ -6,6 +6,7 @@ import Projects from './pages/Projects'
 import Footer from './pages/Footer'
 import Blogs from './pages/Blogs'
 import Navbar from './components/Navbar'
+import Certificates from './pages/Certificates'
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
     <About/>
     <Skills/>
     <Projects/>
+    <Certificates/>
     <Blogs/>
     <Footer/>
   </React.Fragment>

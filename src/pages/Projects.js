@@ -4,10 +4,10 @@ import './Projects.css';
 // Work experience data
 const workExperiences = [
     {
-        title: "Senior Frontend Developer",
+        title: "Software Engineer II",
         company: "ZScore Technology Private Limited, Bangalore",
-        startDate: "2019-06",
-        endDate: "2022-01",
+        startDate: "May2023",
+        endDate: "Present",
         responsibilities: [
             "Driving data management & governance by combining Machine Learning, Contextual Intelligence, and NLP.",
             "Develop interactive features and user controls for efficient data handling.",
@@ -22,9 +22,9 @@ const WorkExperienceCard = ({ title, company, startDate, endDate, responsibiliti
     <div className="col-md-6">
         <div className="card mb-4 shadow fadeIn">
             <div className="card-body">
-                <h5 className="card-title">{title}</h5>
-                <p className="card-text">{company}</p>
-                <p className="card-text">Duration: {startDate} - {endDate}</p>
+                <h4 className="card-title">{title}</h4>
+                <p className="card-text text-secondary">{company}</p>
+                <p className="card-text text-success">Duration: {startDate} - {endDate}</p>
                 <ul >
                     {responsibilities.map((responsibility, index) => (
                         <li key={index} className="list-group-item">{responsibility}</li>
@@ -38,9 +38,9 @@ const WorkExperienceCard = ({ title, company, startDate, endDate, responsibiliti
 
 const WorkPage = () => {
     return (
-        <div className="container" id="projects">
-            <h1 className="page-title">Work Experience</h1>
-
+        <div id="projects" className='container-fluid' style={{ minHeight: '100vh' }}>
+        <h1 className='row justify-content-center p-5 text-decoration-underline'>Work</h1>
+       
             <div className="row">
                 {workExperiences.map((experience, index) => (
                     <WorkExperienceCard key={index} {...experience} />

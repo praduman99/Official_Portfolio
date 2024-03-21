@@ -43,7 +43,6 @@ const Blogs = () => {
                                             <p className="card-text" style={{ height: "3rem", overflow: 'hidden', textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{item.desc}</p>
                                             <a href={item.link} className="btn btn-dark">Read</a>
                                         </div>
-
                                     </div>
                                 </div>)
                         })}
