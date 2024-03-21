@@ -21,12 +21,12 @@ const Skills = () => {
         >
           <div className="col-md-3 ">
             <h4 style={{fontWeight:'bold'}}> Programing Languages</h4>
-            <div className='card d-flex flex-column '>
+            <div className='card d-flex flex-column shadow '>
               <SkillsImage image={js} title={"JavaScript"} />
               <SkillsImage image={ts} title={"TypeScript"} />
             </div>
             <h4 style={{fontWeight:'bold'}}className='mt-4'> IDE & Version Controler</h4>
-            <div className='card d-flex flex-column '>
+            <div className='card d-flex flex-column shadow '>
               <SkillsImage image={vs} title={"Visual Studio Code"} />
               <SkillsImage image={androidstudio} title={"Android Studio"} />
               <SkillsImage image={git} title={"Git"} />
@@ -36,7 +36,7 @@ const Skills = () => {
           </div>
           <div className="col-md-2 ">
           <h4 style={{fontWeight:'bold'}}> Frontend</h4>
-            <div className='card d-flex flex-column'>
+            <div className='card d-flex flex-column shadow'>
               <SkillsImage image={html} title={"Html"} />
               <SkillsImage image={css} title={"Css"} />
               <SkillsImage image={react} title={"Reactjs"} />
@@ -51,7 +51,7 @@ const Skills = () => {
           </div>
           <div className="col-md-2">
           <h4 style={{fontWeight:'bold'}}> Backend</h4>
-            <div className='card d-flex flex-column'>
+            <div className='card d-flex flex-column shadow'>
               <SkillsImage image={html} title={"Nodejs"} />
               <SkillsImage image={css} title={"Expressjs"} />
               <SkillsImage image={react} title={"Firebase"} />
@@ -64,7 +64,7 @@ const Skills = () => {
           </div>
           <div className="col-md-2 ">
            <h4 style={{fontWeight:'bold'}}> More Styling</h4>
-            <div className='card d-flex flex-column'>
+            <div className='card d-flex flex-column shadow'>
               <SkillsImage image={html} title={"Styled Components"} />
               <SkillsImage image={html} title={"Scss"} />
               <SkillsImage image={html} title={"Material ui"} />
@@ -74,14 +74,14 @@ const Skills = () => {
           </div>
           <div className="col-md-3 ">
           <h4 style={{fontWeight:'bold'}}> Build</h4>
-            <div className='card d-flex flex-column'>
+            <div className='card d-flex flex-column shadow'>
               <SkillsImage image={html} title={"Webpack"} />
               <SkillsImage image={html} title={"Babel"} />
               <SkillsImage image={html} title={"Xcode"} />
               <SkillsImage image={html} title={"Android studio"} />
             </div>
             <h4 style={{fontWeight:'bold'}}className='mt-4'>Deployment</h4>
-            <div className='card d-flex flex-column'>
+            <div className='card d-flex flex-column shadow'>
               <SkillsImage image={html} title={"Microsoft Azure"} />
               <SkillsImage image={html} title={"Github pages"} />
               <SkillsImage image={html} title={"Netlify"} />

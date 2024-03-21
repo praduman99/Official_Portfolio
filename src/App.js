@@ -7,6 +7,7 @@ import Footer from './pages/Footer'
 import Blogs from './pages/Blogs'
 import Navbar from './components/Navbar'
 import Certificates from './pages/Certificates'
+import Education from './components/Education'
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
     <Skills/>
     <Projects/>
     <Certificates/>
+    <Education/>
     <Blogs/>
     <Footer/>
   </React.Fragment>

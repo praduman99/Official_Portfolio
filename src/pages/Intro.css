@@ -17,6 +17,11 @@
     font-size: 65px !important;
     font-weight: bold !important;
 }
+@media (max-width: 700px) {
+    .h1 {
+        font-size: 45px !important; /* Adjust font size for smaller screens */
+    }
+}
 .bi{
     font-size: 25px !important;
     
