@@ -13,7 +13,7 @@ const About = () => {
                         <div className='container'>
                             <div className='row'>
                                 <h3 style={{fontWeight:'bold'}}>
-                                    A dedicated Front-end Developer
+                                    A dedicated Software Engineer 
                                     based in India. </h3>
                             </div>
                             <div className='row'>
